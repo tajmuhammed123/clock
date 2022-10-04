@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author tajmu
- *
- */
-module hello {
-}
